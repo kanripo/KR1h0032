@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 四書辨疑
-#+DATE: 2016-04-12 14:01:05.465804
+#+DATE: 2016-04-12 14:01:05.941782
 #+PROPERTY: ID KR1h0032
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 15
 <pb:KR1h0032_WYG_015-1a>¶
 　　欽定四庫全書¶
@@ -48,7 +48,7 @@
 ¶
 　　人皆曰予知驅而納諸罟獲陷阱之中而莫之知辟也¶
 <pb:KR1h0032_WYG_015-3a>¶
-人皆曰予知擇乎中庸而不能期月守也○註罟&KR0224;也¶
+人皆曰予知擇乎中庸而不能期月守也○註罟網也¶
 擭機檻也陷阱坑坎也皆所以揜取禽獸者也言知禍¶
 而不知辟以況能擇而不能守皆不得為知也¶
 ¶
